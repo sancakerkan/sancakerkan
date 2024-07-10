@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
 <h3 align="center">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages.</h3>
 
-- 🌱 I’m currently learning <a>**Python**</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+- 🌱  I’m currently strengthening my knowledge of <a>**Python**</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sancakerkan?tab=repositories](https://github.com/sancakerkan?tab=repositories)
 
