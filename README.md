@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
-<h3 align="center">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages.</h3>
+<h3 align="left">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages. Additionally, I have intermediate knowledge of the Python programming language.</h3>
 
-- 🌱  I’m currently strengthening my knowledge of <a>**Python**</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+- 🌱  I’m currently strengthening my skills of <a>**Python**</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sancakerkan?tab=repositories](https://github.com/sancakerkan?tab=repositories)
+- 👨‍💻 All of my projects are available at: [Github Repositories](https://github.com/sancakerkan?tab=repositories)
 
-- 📫 How to reach me **sancakerkan@gmail.com**
+- 📫 How to reach me: **sancakerkan@gmail.com** or **erkan.sancak@tedu.edu.tr**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/af5n0kjdos](https://flowcv.com/resume/af5n0kjdos)
+- 📄 Know about my experiences: [Resume](https://ec74f97a-de3c-452f-bd6f-b871e3c89da0.filesusr.com/ugd/7427aa_e915c32ed9a24d0890cbfdcc1bb1782e.pdf) or you can wisit my [Online Portfolio](https://sancakerkan.wixsite.com/my-site-6)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
