@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories)
 
-- 📫 How to reach me: [**sancakerkan@gmail.com**](mailto:sancakerkan@gmail.com) or [**erkan.sancak@tedu.edu.tr**](mailto:erkan.sancak@tedu.edu.tr)
+- 📫 How to reach me: [**Personal Email**](mailto:sancakerkan@gmail.com) or [**School Email**](mailto:erkan.sancak@tedu.edu.tr)
 
 - 📄 Know about my experiences: [**Resume**](https://ec74f97a-de3c-452f-bd6f-b871e3c89da0.filesusr.com/ugd/7427aa_e915c32ed9a24d0890cbfdcc1bb1782e.pdf) or you can wisit my [**Online Portfolio**](https://sancakerkan.wixsite.com/my-site-6)
 
