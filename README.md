@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
 <h3 align="left">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages. Additionally, I have intermediate knowledge of the Python programming language.</h3>
 
-- 🌱  I’m currently strengthening my skills of <a>**Python**</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+- 🌱 I’m currently taking a "Software Quality Assurance" course. <a href="https://www.flaticon.com/free-icon/software-testing_11676391" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/11676/11676391.png" alt="software-testing" width="25" height="25"/></a>
 
 - 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories)
 
