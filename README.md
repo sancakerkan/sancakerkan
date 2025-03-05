@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
-<h3 align="left">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages. Additionally, I have intermediate knowledge of the Python programming language.</h3>
+<h3 align="left">I have a degree in Computer Engineering from TED University. My areas of interest include software development. My academic background includes experience with Unity, Java, C, and SQL. Additionally, I have an intermediate knowledge of Python.</h3>
 
 
 - 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories)
