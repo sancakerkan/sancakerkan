@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Erkan</h1>
 <h3 align="left">I am a senior Computer Engineering student at TED University, focusing on software development and game design. My academic background includes studies of the Unity, Java, and C programming languages. Additionally, I have intermediate knowledge of the Python programming language.</h3>
 
-- 🌱 I’m currently doing an internship at Infera Teknoloji. <a href="https://inferatech.com/" target="_blank"><img src="https://inferatech.com/images/infera-logo-retina.png" alt="Infera Teknoloji Logo" width="40" height="40"/></a>
-
 
 - 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories)
 
