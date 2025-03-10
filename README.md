@@ -1,16 +1,14 @@
-<h1 align="center">Hi 👋, I'm Erkan</h1>
-<h3 align="left">I have a degree in Computer Engineering from TED University. My areas of interest include software development. My academic background includes experience with Unity, Java, C, and SQL. Additionally, I have an intermediate knowledge of Python.</h3>
+<h1 align="center">Hi 👋, I'm Erkan</h1> <h3 align="left">I have a Bachelor of Science in Computer Engineering from TED University. I am passionate about software and game development. My academic background includes experience with Unity, Java, C, and SQL. Additionally, I have an intermediate level of knowledge in Python.</h3>
 
 
-- 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories)
+- 👨‍💻 All of my projects are available at: [**Github Repositories**](https://github.com/sancakerkan?tab=repositories).
 
-- 📫 How to reach me: [**Personal Email**](mailto:sancakerkan@gmail.com) or [**School Email**](mailto:erkan.sancak@tedu.edu.tr)
+- 📫 How to reach me: [**Personal Email**](mailto:sancakerkan@gmail.com).
 
-- 📄 Know about my experiences: [**Resume**](https://ec74f97a-de3c-452f-bd6f-b871e3c89da0.filesusr.com/ugd/7427aa_e915c32ed9a24d0890cbfdcc1bb1782e.pdf) or you can wisit my [**Online Portfolio**](https://sancakerkan.wixsite.com/my-site-6)
+- 📄 Know about my experiences: [**Resume**](https://github.com/sancakerkan/Files/blob/main/Erkan_Sancak_Resume.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snckrkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snckrkn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/erkansancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erkansancak" height="30" width="40" /></a>
 </p>
 
